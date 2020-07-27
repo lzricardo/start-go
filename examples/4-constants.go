@@ -8,6 +8,9 @@ import (
 //const declares a constant value.
 const s string = "constant"
 
+/*
+Go supports constants of character, string, boolean, and numeric values.
+*/
 func main() {
 	fmt.Println(s)
 

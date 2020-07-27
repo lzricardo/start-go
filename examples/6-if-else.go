@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/*
+Branching with if and else in Go is straight-forward.
+*/
 func main() {
 	if 7%2 == 0 {
 		fmt.Println("7 is even")

@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/*
+Go has various value types including strings, integers, floats, booleans, etc. Here are a few basic examples.
+*/
 func main() {
 	//Strings, which can be added together with +.
 	fmt.Println("luiz" + "ricardo")

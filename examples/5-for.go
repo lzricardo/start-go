@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/*
+for is Go’s only looping construct. Here are some basic types of for loops.
+*/
 func main() {
 	i := 1
 

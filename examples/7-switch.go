@@ -5,6 +5,9 @@ import (
 	"time"
 )
 
+/*
+Switch statements express conditionals across many branches.
+*/
 func main() {
 	i := 2
 
