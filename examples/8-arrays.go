@@ -28,7 +28,6 @@ func main() {
 		}
 	}
 
-	fmt.Println("2d:", twoD)
-
 	//Note that arrays appear in the form [v1 v2 v3 ...] when printed with fmt.Println.
+	fmt.Println("2d:", twoD)
 }
